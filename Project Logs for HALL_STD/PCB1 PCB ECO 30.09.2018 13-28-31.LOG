@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=R1 Old Footprint=CH0805R New Footprint=CH0805R
+Change Physical Footprint: Designator=R2 Old Footprint=CH0805R New Footprint=CH0805R
+Change Physical Footprint: Designator=U1 Old Footprint=A1103ELHLT-T New Footprint=A1103ELHLT-T
+Change Physical Footprint: Designator=U2 Old Footprint=A1103ELHLT-T New Footprint=A1103ELHLT-T
+Change Physical Footprint: Designator=VD1 Old Footprint=SOD123 New Footprint=SOD123
+Change Physical Footprint: Designator=VD2 Old Footprint=SOD123 New Footprint=SOD123
+Change Physical Footprint: Designator=VD3 Old Footprint=CH0805LB New Footprint=CH0805LB
+Change Physical Footprint: Designator=VD4 Old Footprint=CH0805LR New Footprint=CH0805LR
+Change Physical Footprint: Designator=X1 Old Footprint=CON: PLS-4(90) New Footprint=CON: PLS-4(90)
